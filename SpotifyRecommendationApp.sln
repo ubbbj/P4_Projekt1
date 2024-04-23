@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotifyRecommendationApp", "WpfApp4\SpotifyRecommendationApp.csproj", "{7E8C344A-FFCF-4708-91BB-053188A07B98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotifyRecommendationApp", "SpotifyRecommendationApp\SpotifyRecommendationApp.csproj", "{7E8C344A-FFCF-4708-91BB-053188A07B98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
